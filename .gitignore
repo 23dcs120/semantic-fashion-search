@@ -1,0 +1,9 @@
+venv/
+kaggle_raw/
+embeddings/
+__pycache__/
+*.pyc
+*.npy
+*.bin
+.env
+.DS_Store
